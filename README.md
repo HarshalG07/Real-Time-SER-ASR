@@ -76,7 +76,8 @@ A Tkinter GUI app that:
 
 > This hybrid architecture helps validate emotion prediction from both audio tone **and** speech content.
 
-> The project is focused for running on Windows. If you want to run this on a linux or WSL, The following link is guided to the same project but built on WSL so the requirements are matching the kernel.
+The project is focused for running on Windows. If you want to run this on a linux or WSL, The following link is guided to the same project but built on WSL so the requirements are matching the kernel.
+ https://github.com/iCELAKE01/Speech-Emotion-Recognition-Using-Feature-Extraction
 
 ---
 
